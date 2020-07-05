@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ToolArray">
+        <item>신청완료
+        </item>
+        <item>처리중
+        </item>
+        <item>처리완료
+        </item>
+        <item>접수완료
+        </item>
+    </string-array>
+</resources>
